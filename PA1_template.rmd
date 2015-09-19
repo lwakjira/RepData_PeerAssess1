@@ -1,6 +1,8 @@
 ---
 title: "Activity Monitoring Data Analysis"
-output: html_document
+output:
+  html_document:
+    self_contained: no
 ---
 
 Loading and preprocessing the data
